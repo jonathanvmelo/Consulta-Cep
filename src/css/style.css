@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-
+    width: 60%;
     background-color: #ebdd1b;
     padding: 3rem 0rem;
 }
